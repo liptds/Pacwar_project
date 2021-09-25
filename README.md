@@ -1,6 +1,6 @@
 # Pacwar project
 
-This problem is about designing killer species that live in an imaginary world called PAC-world, created by Donald Knuth of Stanford University.
+This problem is about designing killer species that live in an imaginary world called PAC-world, created by Donald Knuth of Stanford University.https://www.clear.rice.edu/comp440/modules/termproject/
 
 1. Development_set is the tool_kit for running the pacwar tournament. You will get the result of a torunament between genes.
 
